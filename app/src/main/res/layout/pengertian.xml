@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ScrollView xmlns:android="http://schemas.android.com/apk/res/android"
+    android:orientation="vertical"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent">
+
+    <LinearLayout
+        android:orientation="vertical"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent">
+    <ImageView
+        android:layout_width="match_parent"
+        android:layout_height="200dp"
+        android:layout_gravity="center"
+        android:layout_marginTop="15dp"
+        android:src="@drawable/tujuh" />
+
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="     Gastroesophageal    Reflux   Disease   (GERD) merupakan  penyakit saluran pencernaan akibat asam lambung  yang naik ke  esofagus (refluks). Hal   ini   akan   membuat  penderitanya  merasa  mual   bahkan   muntah  dan  juga  dada    terasa   panas    seperti     terbakar   (heartburn).  Akibat naiknya   asam    lambung   ke    esofagus    atau kerongkongan,   maka  sifat  asam  yang  korosif akan     mengiritasi    dan     membakar    lapisan permukaan esofagus. Hal ini akan menimbulkan rasa   panas   pada    dada   (heartburn)   sampai  bagian    dalam     leher    bahkan    tenggorokan. Beberapa juga merasakan  sensasi  asam   pada mulutnya."
+        android:textColor="#019B93"
+        android:textSize="17dp"
+        android:layout_marginTop="10dp"
+        android:fontFamily="sans-serif-condensed" />
+    </LinearLayout>
+
+</ScrollView>

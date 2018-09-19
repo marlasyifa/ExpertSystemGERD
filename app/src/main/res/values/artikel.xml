@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="artikel1" type="string">GERD</string>
+    <string name="artikel2" type="string">Certainty Factor</string>
+    <string name="artikel3" type="string">Tentang Pembuat</string>
+    <string name="artikel4" type="string">Tentang Pembuat</string>
+    <string name="artikel5" type="string">Tentang Pembuat</string>
+    <string name="artikel6" type="string">Tentang Pembuat</string>
+    <string name="artikel7" type="string">Tentang Pembuat</string>
+    <string name="artikel8" type="string">Tentang Pembuat</string>
+    <string name="artikel9" type="string">Tentang Pembuat</string>
+    <string name="artikel10" type="string">Tentang Pembuat</string>
+
+
+
+
+
+
+    <string name="isi1" type="string">Gastroesophageal Reflux Disease (GERD) adalah kondisi yang ditandai dengan nyeri pada ulu hati atau sensasi terbakar di dada akibat naiknya asam lambung menuju esofagus</string>
+    <string name="isi2" type="string">Aplikasi sistem pakar ini menggunakan metode Certainty Factor untuk menggambarkan tingkat kepercayaan seorang pakar terhadap masalah yang sedang dihadapi</string>
+    <string name="isi3" type="string">Aplikasi ini dibuat pada tahun 2018 oleh Marla Nur Assyifa</string>
+    <string name="isi4" type="string">Aplikasi ini dibuat pada tahun 2018 oleh Marla Nur Assyifa</string>
+    <string name="isi5" type="string">Aplikasi ini dibuat pada tahun 2018 oleh Marla Nur Assyifa</string>
+    <string name="isi6" type="string">Aplikasi ini dibuat pada tahun 2018 oleh Marla Nur Assyifa</string>
+    <string name="isi7" type="string">Aplikasi ini dibuat pada tahun 2018 oleh Marla Nur Assyifa</string>
+    <string name="isi8" type="string">Aplikasi ini dibuat pada tahun 2018 oleh Marla Nur Assyifa</string>
+    <string name="isi9" type="string">Aplikasi ini dibuat pada tahun 2018 oleh Marla Nur Assyifa</string>
+    <string name="isi10" type="string">Aplikasi ini dibuat pada tahun 2018 oleh Marla Nur Assyifa</string>
+</resources>

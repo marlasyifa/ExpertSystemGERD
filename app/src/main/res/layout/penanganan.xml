@@ -1,0 +1,123 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ScrollView xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    android:orientation="vertical"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content">
+
+    <android.support.v7.widget.CardView
+        android:background="#ffffff"
+        app:cardBackgroundColor="#ffffff"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginBottom="20dp">
+
+        <LinearLayout
+            android:orientation="vertical"
+            android:layout_width="match_parent"
+            android:layout_height="match_parent">
+            <ImageView
+                android:layout_marginTop="10dp"
+                android:src="@drawable/nomer1"
+                android:layout_width="match_parent"
+                android:layout_height="100dp" />
+
+
+            <TextView
+                android:layout_width="wrap_content"
+                android:text="1. Menjaga berat badan pada taraf ideal, karena obesitas  atau  kegemukan  akan  memperburuk penyakit    GERD    karena    lemak   pada   perut   akan   menambah    tekanan    pada    lambung."
+                android:layout_height="wrap_content"
+                android:textColor="#019B93"
+                android:textSize="17dp"
+                android:fontFamily="sans-serif-condensed"
+                android:layout_marginTop="10dp"
+                android:layout_marginBottom="10dp"/>
+
+            <ImageView
+                android:layout_marginTop="30dp"
+                android:src="@drawable/nomer2"
+                android:layout_width="match_parent"
+                android:layout_height="100dp" />
+
+
+            <TextView
+                android:layout_width="wrap_content"
+                android:text="2. Menghindari  pakaian  ketat di  sekitar  perut  atau  pinggang  berpotensi  menekan  lambung  sehingga  dapat  memperburuk  gejala  GERD."
+                android:layout_height="wrap_content"
+                android:textColor="#019B93"
+                android:textSize="17dp"
+                android:fontFamily="sans-serif-condensed"
+                android:layout_marginTop="10dp"
+                android:layout_marginBottom="10dp"/>
+
+            <ImageView
+                android:layout_marginTop="30dp"
+                android:src="@drawable/nomer3"
+                android:layout_width="match_parent"
+                android:layout_height="100dp" />
+
+
+            <TextView
+                android:layout_width="wrap_content"
+                android:text="3. Menghindari     makanan     dan      minuman      pemicu   seperti   coklat,   saus tomat,  alkohol,   dan  kafein    karena   dapat   membuat   gejala   penyakit     GERD     menjadi     lebih     buruk."
+                android:layout_height="wrap_content"
+                android:textColor="#019B93"
+                android:textSize="17dp"
+                android:fontFamily="sans-serif-condensed"
+                android:layout_marginTop="10dp"
+                android:layout_marginBottom="10dp"/>
+
+            <ImageView
+                android:layout_marginTop="30dp"
+                android:src="@drawable/nomer4"
+                android:layout_width="match_parent"
+                android:layout_height="100dp" />
+
+
+            <TextView
+                android:layout_width="wrap_content"
+                android:text="4. Makan  dengan  porsi  kecil."
+                android:layout_height="wrap_content"
+                android:textColor="#019B93"
+                android:textSize="17dp"
+                android:fontFamily="sans-serif-condensed"
+                android:layout_marginTop="10dp"
+                android:layout_marginBottom="10dp"/>
+
+            <ImageView
+                android:layout_marginTop="30dp"
+                android:src="@drawable/nomer5"
+                android:layout_width="match_parent"
+                android:layout_height="100dp" />
+
+
+            <TextView
+                android:layout_width="wrap_content"
+                android:text="5. Jangan  berbaring  setelah  makan. Sebaiknya  tunggu  hingga  3  jam  setelah  makan sebelum  berbaring  atau  tidur."
+                android:layout_height="wrap_content"
+                android:textColor="#019B93"
+                android:textSize="17dp"
+                android:fontFamily="sans-serif-condensed"
+                android:layout_marginTop="10dp"
+                android:layout_marginBottom="10dp"/>
+
+            <ImageView
+                android:layout_marginTop="30dp"
+                android:src="@drawable/nomer6"
+                android:layout_width="match_parent"
+                android:layout_height="100dp" />
+
+
+            <TextView
+                android:layout_width="wrap_content"
+                android:text="6. Jangan  merokok. Tembakau  dalam  rokok  bisa  meningkatkan  produksi  asam  lambung."
+                android:layout_height="wrap_content"
+                android:textColor="#019B93"
+                android:textSize="17dp"
+                android:fontFamily="sans-serif-condensed"
+                android:layout_marginTop="10dp"
+                android:layout_marginBottom="10dp"/>
+        </LinearLayout>
+    </android.support.v7.widget.CardView>
+
+    </ScrollView>

@@ -1,0 +1,26 @@
+<resources>
+    <string name="app_name"></string>
+
+    <string name="tab1">GERD</string>
+    <string name="tab2">DIAGNOSIS</string>
+    <string name="tab3">ARTIKEL</string>
+
+
+    <!-- OnBoard Screen. -->
+    <string name="ob_header1">GERD</string>
+    <string name="ob_header2">Certainty Factor</string>
+    <string name="ob_header3">Tentang Pembuat</string>
+
+    <string name="ob_get_started">LANJUT</string>
+
+    <string name="ob_desc1">Gastroesophageal Reflux Disease (GERD) adalah kondisi yang ditandai dengan nyeri pada ulu hati atau sensasi terbakar di dada akibat naiknya asam lambung menuju esofagus</string>
+    <string name="ob_desc2">Aplikasi sistem pakar ini menggunakan metode Certainty Factor untuk menggambarkan tingkat kepercayaan seorang pakar terhadap masalah yang sedang dihadapi</string>
+    <string name="ob_desc3">Aplikasi ini dibuat pada tahun 2018 oleh Marla Nur Assyifa</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+
+    <string name="hint">test</string>
+
+
+</resources>

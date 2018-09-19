@@ -1,0 +1,104 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ScrollView xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    android:orientation="vertical"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content">
+
+    <android.support.v7.widget.CardView
+        android:background="#ffffff"
+        app:cardBackgroundColor="#ffffff"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginBottom="20dp">
+
+        <LinearLayout
+            android:orientation="vertical"
+            android:layout_width="match_parent"
+            android:layout_height="match_parent">
+            <ImageView
+                android:layout_marginTop="10dp"
+                android:src="@drawable/kesatu"
+                android:layout_width="match_parent"
+                android:layout_height="100dp" />
+
+            <TextView
+                android:layout_width="wrap_content"
+                android:text="Lemahnya  Sfingter  Pada  Wanita  Hamil  dan  Penderita  Obesitas"
+                android:layout_height="wrap_content"
+                android:textColor="#019B93"
+                android:textStyle="bold"
+                android:textSize="17dp"
+                android:fontFamily="sans-serif-condensed"
+                android:layout_marginTop="5dp" />
+
+
+            <TextView
+                android:layout_width="wrap_content"
+                android:text="GERD  disebabkan   karena   kelemahan    atau  kegagalan relaksasi dari cincin  yang bertugas    mengatur   proses   buka  -  tutup   pintu  / klep  yang menghubungkan esofagus bagian bawah   dengan   lambung.  Kelemahan dari sfingter ini  bisa   terjadi  dengan  sendirinya  pada  wanita  hamil  atau  orang  yang  obesitas."
+                android:layout_height="wrap_content"
+                android:textColor="#019B93"
+                android:textSize="17dp"
+                android:fontFamily="sans-serif-condensed"
+                android:layout_marginTop="5dp"
+                android:layout_marginBottom="10dp"/>
+
+            <ImageView
+                android:layout_width="277dp"
+                android:layout_height="153dp"
+                android:layout_gravity="center"
+                android:layout_marginTop="25dp"
+                android:src="@drawable/asma" />
+
+
+            <TextView
+                android:layout_width="wrap_content"
+                android:text="Penderita Asma, Diabetes, Skleroderma, dan Penyakit Hiatus Hernia "
+                android:layout_height="wrap_content"
+                android:textColor="#019B93"
+                android:textStyle="bold"
+                android:textSize="17dp"
+                android:fontFamily="sans-serif-condensed"
+                android:layout_marginTop="5dp" />
+
+            <TextView
+                android:layout_width="wrap_content"
+                android:text="Selain   itu   mereka   yang   menderita   asma, diabetes,  skleroderma,  dan  penyakit   hiatus   hernia  juga  rentan  terkena  GERD.  Beberapa makanan  juga  dicurigai dapat memicu GERD. Antara lain kafein, alkohol,  cokelat,  makanan yang digoreng, saus tomat, bawang putih, dan bawang merah."
+                android:layout_height="wrap_content"
+                android:textColor="#019B93"
+                android:textSize="17dp"
+                android:fontFamily="sans-serif-condensed"
+                android:layout_marginTop="5dp"
+                android:layout_marginBottom="10dp"/>
+
+
+            <ImageView
+                android:layout_marginTop="25dp"
+                android:src="@drawable/ketiga"
+                android:layout_width="match_parent"
+                android:layout_height="100dp" />
+
+            <TextView
+                android:layout_width="wrap_content"
+                android:text="Kebiasaan Merokok dan Berbaring Setelah Makan"
+                android:layout_height="wrap_content"
+                android:textColor="#019B93"
+                android:textStyle="bold"
+                android:textSize="17dp"
+                android:fontFamily="sans-serif-condensed"
+                android:layout_marginTop="5dp" />
+
+            <TextView
+                android:layout_width="wrap_content"
+                android:text="Hal lain yang  juga dapat meningkatkan risiko GERD adalah kebiasaan buruk yang dilakukan seseorang,  baik secara  sadar  maupun tidak. Seperti merokok dan kebiasaan mengosumsi makanan dalam waktu tiga jam sebelum tidur."
+                android:layout_height="wrap_content"
+                android:textColor="#019B93"
+                android:textSize="17dp"
+                android:fontFamily="sans-serif-condensed"
+                android:layout_marginTop="5dp"
+                android:layout_marginBottom="10dp"/>
+
+        </LinearLayout>
+    </android.support.v7.widget.CardView>
+
+</ScrollView>

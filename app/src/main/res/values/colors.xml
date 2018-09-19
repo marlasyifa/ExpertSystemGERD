@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#16928F</color>
+    <color name="colorPrimaryDark">#26303D</color>
+    <color name="colorAccent">#F3CD70</color>
+    <color name="colorBackground">#FFFFFF</color>
+    <color name="colorTextPrimary">#FFFFFF</color>
+
+    <color name="tab_disable">#979797</color>
+    <color name="tab_enable">#FFFFFF</color>
+    <color name="tab_checked">#111111</color>
+    <color name="tab_unchecked">#008FE6</color>
+
+    <color name="white">#FFFFFF</color>
+    <color name="latar">#F59673</color>
+    <color name ="menu">#F59673</color>
+    <!--OnBoard-->
+
+    <color name="selected_dot">#16928F</color>
+    <color name="idle_dot">#662D9CDB</color>
+    <color name="ob_header">#4F635D</color>
+    <color name="ob_desc">#00202D</color>
+</resources>
